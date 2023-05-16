@@ -1,0 +1,17 @@
+# IntelliJ project files
+.idea/
+
+# Scala target directories
+target/
+
+# Compiled files
+*.class
+*.jar
+
+# SBT specific files
+project/target/
+project/project/
+target/
+
+# bsp
+.bsp/
